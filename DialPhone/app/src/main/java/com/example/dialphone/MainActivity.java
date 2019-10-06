@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void dialPhone(View view){
-            Intent intent = new Intent(Intent.ACTION_CALL);
+            Intent intent = new Intent(Intent.ACTION_DIAL);
             intent.setData(Uri.parse("tel:+07484771628"));
             startActivity(intent);
 
