@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Dial Phone</string>
     <string name="button_dial">DIAL</string>
+    <string name="edit_number">Enter a Number</string>
+    <string name="edit_message">Enter a Message</string>
+    <string name="button_send">Send SMS</string>
 </resources>

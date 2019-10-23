@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="txtEmail">Enter Email</string>
+    <string name="txtPassword">Enter Password</string>
+    <string name="txtConfirmPassword">Confirm Password</string>
+    <string name="blogin">LOGIN</string>
+    <string name="bregister">REGISTER</string>
+
+</resources>
